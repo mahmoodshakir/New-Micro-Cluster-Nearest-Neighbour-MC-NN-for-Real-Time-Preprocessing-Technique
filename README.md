@@ -1,7 +1,7 @@
 # New-Micro-Cluster-Nearest-Neighbour-MC-NN-for-Real-Time-Preprocessing-Technique
-1. Download MOA
+1. Download MOA Source Code
 
-2. Create new java package:
+2. Create new java package (if it does not exist yet):
 
    MathPackages
    
@@ -59,7 +59,7 @@
    
        DriftDetectionMethodClassifier.java
        
-4. Create new java package:
+4. Create new java package (if it does not exist yet):
 
    moa.gui
    
